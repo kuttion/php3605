@@ -1,1 +1,1 @@
-<?php       echo "you name is caixunkun"; ?>
+<?php echo "you name is caixunkun"; ?>
